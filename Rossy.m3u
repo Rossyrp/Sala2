@@ -57,7 +57,7 @@ http://45.228.234.162:24000/play/a067/index.m3u8
 http://204.199.120.34:16123/play/ch63
 #EXTINF:-1, Canal 10
 http://190.83.119.67:8000/play/a009/index.m3u8
- Canal 13
+#EXTINF:-1, Canal 13
 http://168.194.171.33:8000/play/a09c/index.m3u8
 #EXTINF:-1, Canal 14
 http://156.146.38.236:1020
@@ -65,7 +65,7 @@ http://156.146.38.236:1020
 http://156.146.38.236:1018
 #EXTINF:-1, Canal Capital
 http://204.199.120.34:16123/play/ch70
- Canal Claro
+#EXTINF:-1, Canal Claro
 http://190.61.102.67:8000/play/a013
 #EXTINF:-1, Canal RCN
 http://204.199.120.34:16123/play/ch59
@@ -213,17 +213,17 @@ http://168.121.46.90:8000/play/a00c/index.m3u8
 http://168.194.171.33:8000/play/a05a/index.m3u8
 #EXTINF:-1, TNT Series
 http://131.196.194.2:8000/play/a0f2/index.m3u8
- Action por M+
+#EXTINF:-1, Action por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303866
- Clásicos por M+
+#EXTINF:-1, Clásicos por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303875
- Comedia por M+
+#EXTINF:-1, Comedia por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303868
- Drama por M+
+#EXTINF:-1, Drama por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303872
- Estrenos por M+
+#EXTINF:-1, Estrenos por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303860
- Extrenos 2 por M+
+#EXTINF:-1, Extrenos 2 por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303862
 #EXTINF:-1, Golden
 http://168.121.46.90:8000/play/a02g/index.m3u8
@@ -251,9 +251,9 @@ http://156.146.38.236:1193
 http://156.146.38.236:1197
 #EXTINF:-1, HBO Xtreme
 http://131.196.194.2:8000/play/a0cz/index.m3u8
- Series 2 por M+
+#EXTINF:-1, Series 2 por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303899
- Series por M+
+#EXTINF:-1, Series por M+
 http://hidra.live:80/xaehsalg/454K7nBmkn/303902
 #EXTINF:-1, Universal Cinema
 http://190.83.119.67:8000/play/a046/index.m3u8
@@ -327,7 +327,7 @@ http://190.83.119.67:8000/play/a00f/index.m3u8
 http://168.121.46.90:8000/play/a00x/index.m3u8
 #EXTINF:-1, Disney Junior
 http://204.199.120.34:16123/play/ch05
- Dreamworks
+#EXTINF:-1, Dreamworks
 http://156.146.38.236:1155
 #EXTINF:-1, ETC
 http://177.128.115.10:8000/play/a0a6
@@ -347,11 +347,11 @@ http://190.83.119.67:8000/play/a011/index.m3u8
 http://156.146.38.236:1054
 #EXTINF:-1, Zoo Moo
 http://204.199.120.34:16123/play/ch04
- Concert Channel
+#EXTINF:-1, Concert Channel
 http://hidra.live:80/xaehsalg/454K7nBmkn/35024
 #EXTINF:-1, HTV
 http://190.83.119.67:8000/play/a02l/index.m3u8
- Iconcerts
+#EXTINF:-1, Iconcerts
 http://177.128.115.10:8000/play/a09t
 #EXTINF:-1, Kpop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -375,9 +375,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://168.121.46.90:8000/play/a01z/index.m3u8
 #EXTINF:-1, Telehit Música Plus
 http://168.121.46.90:8000/play/a01z/index.m3u8
- BBC World
+#EXTINF:-1, BBC World
 http://190.83.119.67:8000/play/a01h/index.m3u8
- Canal Institucional
+#EXTINF:-1, Canal Institucional
 http://204.199.120.34:16123/play/ch62
 #EXTINF:-1, CNN
 http://190.83.119.67:8000/play/a00c/index.m3u8
