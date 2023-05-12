@@ -5,7 +5,7 @@ http://168.121.46.90:8000/play/a05c/index.m3u8
 http://168.121.46.90:8000/play/a05f/index.m3u8
 #EXTINF:-1, Golperú
 http://168.121.46.90:8000/play/a024/index.m3u8
-#EXTINF:-1, América HD
+#EXTINF:-1, América tvGO
 http://168.121.46.90:8000/play/a049/index.m3u8
 #EXTINF:-1, Panamericana
 http://168.121.46.90:8000/play/a05z/index.m3u8
@@ -214,17 +214,15 @@ http://168.194.171.33:8000/play/a05a/index.m3u8
 #EXTINF:-1, TNT Series
 http://131.196.194.2:8000/play/a0f2/index.m3u8
 #EXTINF:-1, Action por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303866
-#EXTINF:-1, Clásicos por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303875
+http://magicoiptv.org:8080/axl/axl/89117
 #EXTINF:-1, Comedia por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303868
+http://magicoiptv.org:8080/axl/axl/89252
 #EXTINF:-1, Drama por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303872
+http://magicoiptv.org:8080/axl/axl/89119
 #EXTINF:-1, Estrenos por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303860
+http://magicoiptv.org:8080/axl/axl/89115
 #EXTINF:-1, Extrenos 2 por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303862
+http://magicoiptv.org:8080/axl/axl/89116
 #EXTINF:-1, Golden
 http://168.121.46.90:8000/play/a02g/index.m3u8
 #EXTINF:-1, Golden Edge
@@ -252,9 +250,9 @@ http://156.146.38.236:1197
 #EXTINF:-1, HBO Xtreme
 http://131.196.194.2:8000/play/a0cz/index.m3u8
 #EXTINF:-1, Series 2 por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303899
+http://magicoiptv.org:8080/axl/axl/89099
 #EXTINF:-1, Series por M+
-http://hidra.live:80/xaehsalg/454K7nBmkn/303902
+http://magicoiptv.org:8080/axl/axl/89100
 #EXTINF:-1, Universal Cinema
 http://190.83.119.67:8000/play/a046/index.m3u8
 #EXTINF:-1, Universal Comedy
