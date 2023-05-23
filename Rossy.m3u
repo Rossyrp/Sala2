@@ -223,6 +223,10 @@ http://magicoiptv.org:8080/axl/axl/89119
 http://magicoiptv.org:8080/axl/axl/89115
 #EXTINF:-1, Extrenos 2 por M+
 http://magicoiptv.org:8080/axl/axl/89116
+#EXTINF:-1, FMH Family
+http://45.181.122.169:8000/play/a02i
+#EXTINF:-1, FMH Movies
+http://45.181.122.169:8000/play/a02k
 #EXTINF:-1, Golden
 http://168.121.46.90:8000/play/a02g/index.m3u8
 #EXTINF:-1, Golden Edge
@@ -307,6 +311,8 @@ http://204.199.120.34:16123/play/ch61
 http://204.199.120.34:16123/play/ch48
 #EXTINF:-1, Teleislas
 http://204.199.120.34:16123/play/ch37
+#EXTINF:-1, Animotion
+http://45.181.122.169:8000/play/a02g
 #EXTINF:-1, BabyFirst
 http://131.196.194.2:8000/play/a0e5/index.m3u8
 #EXTINF:-1, BabyTV
@@ -329,6 +335,8 @@ http://204.199.120.34:16123/play/ch05
 http://156.146.38.236:1155
 #EXTINF:-1, ETC
 http://177.128.115.10:8000/play/a0a6
+#EXTINF:-1, FMH Kids
+http://45.181.122.169:8000/play/a02j
 #EXTINF:-1, Lolly Kids
 http://179.1.144.192:4000/play/a032/index.m3u8
 #EXTINF:-1, Nick
@@ -355,6 +363,8 @@ http://177.128.115.10:8000/play/a09t
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1, Mi Musica Romántica
 http://204.199.120.34:16123/play/ch54
+#EXTINF:-1, Kizzi TV
+http://45.181.122.169:8000/play/a02l
 #EXTINF:-1, MTV
 http://45.228.234.162:24000/play/a031/index.m3u8
 #EXTINF:-1, MTV 00's
@@ -369,6 +379,10 @@ http://190.83.119.67:8000/play/a01b/index.m3u8
 http://190.83.119.67:8000/play/a03l/index.m3u8
 #EXTINF:-1, Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Old Music
+http://45.181.122.169:8000/play/a034
+#EXTINF:-1, OWY
+http://45.181.122.169:8000/play/a035
 #EXTINF:-1, Telehit
 http://168.121.46.90:8000/play/a01z/index.m3u8
 #EXTINF:-1, Telehit Música Plus
@@ -389,6 +403,8 @@ http://204.199.120.34:16123/play/ch43
 http://168.121.46.90:8000/play/a05x/index.m3u8
 #EXTINF:-1, Aliento Visión
 http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:-1, Atlas TV
+http://45.181.122.169:8000/play/a03w
 #EXTINF:-1, CDM Internacional
 http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 #EXTINF:-1, Cristovisión
