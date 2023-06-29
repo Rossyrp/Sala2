@@ -418,7 +418,7 @@ http://205.164.56.130:1935/jorge854/jorge854/chunklist.m3u8
 #EXTINF:-1, ESPN
 http://177.93.45.155:6143/play/a017/index.m3u8
 #EXTINF:-1, ESPN 2
-http://131.196.194.2:8000/play/a0ec/index.m3u8
+http://177.93.45.155:6143/play/a010/index.m3u8
 #EXTINF:-1, ESPN 3
 http://131.196.194.2:8000/play/a0ee/index.m3u8
 #EXTINF:-1, ESPN 4
